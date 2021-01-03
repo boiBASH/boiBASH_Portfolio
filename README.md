@@ -1,5 +1,5 @@
 # BASHIRUDEEN OPEYEMI IBRAHIM_Portfolio
-Data science projects worked on
+Data science projects I have worked on
 
 
 
