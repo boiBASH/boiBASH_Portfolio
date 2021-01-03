@@ -3,7 +3,7 @@ Data science projects have worked on
 
 
 
-# PROJECT 1: Covid 19 World Analysis - Most Recent Info  : project review
+# PROJECT 1: Covid 19 World Analysis - Most Recent Info:
 * World Covid-19 Growth Over Time
 * Confirmed Cases in Each Country
 * Mapping Covid Around the World
