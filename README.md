@@ -1,5 +1,5 @@
-# boiBASH_Portfolio
-Data science projects have worked on
+# BASHIRUDEEN OPYEMI IBRAHIM_Portfolio
+Data science projectS worked on
 
 
 
