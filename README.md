@@ -1,4 +1,4 @@
-# BASHIRUDEEN OPYEMI IBRAHIM_Portfolio
+# BASHIRUDEEN OPEYEMI IBRAHIM_Portfolio
 Data science projectS worked on
 
 
