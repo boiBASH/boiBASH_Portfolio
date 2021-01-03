@@ -42,6 +42,6 @@ Based on the structured data extracted, we'll train a network that learns to pre
 
 # PROJECT 7: Analyzing the Conversion Rate of a Bank's Marketing Campaign
 # PROJECT 8: Sentiment Analysis of Airline Tweets
-# project 9: Africa Economic, Banking & Systematic Crisis Data - Visualization Study
+# PROJECT 9: Africa Economic, Banking & Systematic Crisis Data - Visualization Study
 
 # PROJECT 10: 2009 vs 2014 : India Election Data Analysis
